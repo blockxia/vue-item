@@ -125,7 +125,6 @@
   width: 50%;
   color: #fff;
   text-align: center;
-  margin-left: -5%;
 }
 #app .content >div >section.msite .msite_header .header_title .header_title_text {
   font-size: 20px;
@@ -283,7 +282,7 @@
 }
 #app .content >div >section.msite .msite_shop_list .shop_container .shop_list .shop_li >a .shop_right .shop_detail_header .shop_title {
   float: left;
-  width: 140px;
+  width: 200px;
   color: #333;
   font-size: 16px;
   line-height: 16px;
