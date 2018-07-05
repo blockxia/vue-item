@@ -79,9 +79,9 @@
   width: 10%;
   height: 50%;
 }
-#app .content >div >section .header .header_search .iconfont {
+#app .content >div >section .header .header_search .iconfont icon-search1 {
   font-size: 22px;
-  color: #fff;
+  color: #808080;
 }
 #app .content >div >section .header .header_title {
   position: absolute;
@@ -578,7 +578,7 @@
   overflow: hidden;
   vertical-align: top;
 }
-#app .content >div >section.profile .profile-number .profile-link .profile_image .icon-person {
+#app .content >div >section.profile .profile-number .profile-link .profile_image .icon-accountfilling {
   background: #e4e4e4;
   font-size: 62px;
 }
